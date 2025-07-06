@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|c:\\users\\matan avnon\\source\\repos\\minidownloadmanager\\minidownloadmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|solutionrelative:minidownloadmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|c:\\users\\matan avnon\\source\\repos\\minidownloadmanager\\minidownloadmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|solutionrelative:minidownloadmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|c:\\users\\matan avnon\\source\\repos\\minidownloadmanager\\minidownloadmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|solutionrelative:minidownloadmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|c:\\users\\matan avnon\\source\\repos\\minidownloadmanager\\minidownloadmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|solutionrelative:minidownloadmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|c:\\users\\matan avnon\\source\\repos\\minidownloadmanager\\minidownloadmanager\\fileoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036C924E-C404-47C9-AEF1-F441E4CEF535}|MiniDownloadManager\\MiniDownloadManager.csproj|solutionrelative:minidownloadmanager\\fileoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\Program.cs",
+              "RelativeDocumentMoniker": "MiniDownloadManager\\Program.cs",
+              "ToolTip": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\Program.cs",
+              "RelativeToolTip": "MiniDownloadManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:02:43.846Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileOption.cs",
+              "DocumentMoniker": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\FileOption.cs",
+              "RelativeDocumentMoniker": "MiniDownloadManager\\FileOption.cs",
+              "ToolTip": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\FileOption.cs",
+              "RelativeToolTip": "MiniDownloadManager\\FileOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:00:52.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\Form1.cs",
+              "RelativeDocumentMoniker": "MiniDownloadManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\Form1.cs [Design]",
+              "RelativeToolTip": "MiniDownloadManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:00:01.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MiniDownloadManager\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\Form1.Designer.cs",
+              "RelativeToolTip": "MiniDownloadManager\\Form1.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:53:49.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\Form1.cs",
+              "RelativeDocumentMoniker": "MiniDownloadManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\Matan Avnon\\source\\repos\\MiniDownloadManager\\MiniDownloadManager\\Form1.cs",
+              "RelativeToolTip": "MiniDownloadManager\\Form1.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAUwL0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:50:10.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

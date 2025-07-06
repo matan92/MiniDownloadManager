@@ -25,5 +25,4 @@ A simple Windows Forms application that downloads the highest-scored compatible 
 - Build in Release mode.
 
 ## Notes
-- Requires Windows OS.
-- Tested with .NET 6+.
+- Requires Windows OS
